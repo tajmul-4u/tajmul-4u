@@ -27,11 +27,7 @@
 
 ---
 ## 💻 Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=10)](#)  
-
-
-
-
+[![Tech Stack](https://skillicons.dev/icons?i=c,c++,java,python,html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=10)](#)  
 <table>
   <tr>
     <td align="center">
@@ -86,13 +82,6 @@
     </td>
   </tr>
 </table>
-
-<div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-      <div>HTML5</div>
-    </div>
-
-
 ---
 
 ### 📈 GitHub Stats:
