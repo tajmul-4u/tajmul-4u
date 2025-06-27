@@ -26,8 +26,7 @@
 </p>
 
 ---
-## 💻 Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=c,c++,java,python,html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=10)](#)  
+## 💻 Tech Stack: 
 <table>
   <tr>
     <td align="center">
