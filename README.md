@@ -27,12 +27,8 @@
 
 ---
 ## 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="50" height="50" />
-</p>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=10)](#)  
+
 
 
 
