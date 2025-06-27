@@ -37,6 +37,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/tajmul-islam4u)
 - 📝 [DEV.to](https://dev.to/tajmul_islam_47)
 - 👥 [Facebook](https://facebook.com/tajmulforeverAK47)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AK47Tajmul)
 - 🌐 Portfolio: *Coming Soon!*
 
 
