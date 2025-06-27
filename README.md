@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/tajmul-4u" width="150" height="150" style="border-radius: 50%" alt="Profile Picture">
+  <img src="https://github.com/tajmul-4u/tajmul-4u/blob/main/IMG_20250617_121537.jpg/u/tajmul-4u" width="150" height="150" style="border-radius: 50%" alt="Profile Picture">
 </p>
 <h1 align="center">Hi, I'm Tajmul Islam 👋</h1>
 
