@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/tajmul-4u/tajmul-4u/blob/main/IMG_20250617_121537.jpg"
+  <img src=https://github.com/tajmul-4u/tajmul-4u/blob/d9d383b9a08057873a85496e4510770b6edbc0f7/1000035447.jpg
 </p>
 <h1 align="center">Hi, I'm Tajmul Islam 👋</h1>
 
