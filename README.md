@@ -86,10 +86,11 @@
     </td>
   </tr>
 </table>
-<p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /></a>
-  <br><sub>HTML5</sub>
-</p>
+
+<div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+      <div>HTML5</div>
+    </div>
 
 
 ---
