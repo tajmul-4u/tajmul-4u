@@ -91,6 +91,10 @@
 </p>
 
 ---
+### 📊 **GitHub Stats**
+[![Tajmul's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=tajmul-4u&show_icons=true&count_private=true&line_height=24&icon_color=00b3ff&theme=radical&title_color=00b3ff)](#)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajmul-4u&layout=compact&theme=radical&title_color=00b3ff)](#)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tajmul-4u&theme=radical&hide_border=true)](#)  
 
 ### 📫 Let's Connect!
 - 🌐 Portfolio: *Coming Soon!*
