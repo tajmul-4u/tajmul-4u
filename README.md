@@ -83,13 +83,6 @@
 </table>
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajmul-4u&show_icons=true&theme=tokyonight" alt="Tajmul's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tajmul-4u&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 ### 📊 **GitHub Stats**
 [![Tajmul's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=tajmul-4u&show_icons=true&count_private=true&line_height=24&icon_color=00b3ff&theme=radical&title_color=00b3ff)](#)  
